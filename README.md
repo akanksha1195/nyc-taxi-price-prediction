@@ -11,12 +11,15 @@
    To further enhance the dataset's suitability for machine learning, I binned the time data into six distinct bins, allowing for a more granular analysis of temporal patterns. Additionally, several preprocessing steps were meticulously applied to the data, ensuring its readiness for utilization in my machine learning models. These preparatory measures laid the foundation for more accurate and insightful predictions.
 
 3. Exploratory Data Analysis
+   
      The exploratory data analysis unveiled compelling insights within the dataset. It became evident that the majority of cab rides involved one or two passengers, indicating a prevalent usage pattern. Surprisingly, Fridays saw more cab usage than Mondays, hinting at shifting travel behaviors toward the end of the week. Furthermore, the analysis revealed that evening pickups and nighttime drop-offs were most frequent, with relatively lighter traffic in the early morning hours. The histogram emphasized the preference for evening and nighttime rides. Vendor id: 2 attracted a larger customer base compared to Vendor id: 1, suggesting a preference among passengers. Trip durations peaked on Thursdays and Fridays, particularly during the afternoon and evening hours, likely due to increased traffic. These findings offer valuable insights into travel patterns and customer preferences, providing a solid foundation for informed decision-making and predictive modeling in the project.
 
-4. Model Building
+5. Model Building
+   
      In the model-building phase, I conducted a series of essential steps to construct accurate predictive models. Firstly, I applied standard scaling to the dataset, ensuring that features were appropriately scaled for modeling. Subsequently, I partitioned the dataset into training and testing subsets, facilitating robust model evaluation. The approach involved employing both linear regression and decision tree algorithms. I meticulously fine-tuned model parameters using hyperparameter tuning techniques, optimizing their performance. These steps showcase the dedication to rigorous model development and data-driven decision-making in this project.
 
-5. Model Evaluation
+7. Model Evaluation
+   
       In the model evaluation phase, I employed a comprehensive approach to fine-tune the decision tree algorithm. Specifically, we conducted hyperparameter tuning by meticulously optimizing the tree's depth, setting it to 11. This meticulous tuning process aimed to enhance the model's performance and predictive accuracy. As a result of the efforts, we successfully trained the model and achieved a commendable accuracy of 62% on the test dataset. These results underscore our commitment to precision and excellence in model development and evaluation within this project.
 
 
