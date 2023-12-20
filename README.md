@@ -20,6 +20,6 @@
 
 7. Model Evaluation
    
-      In the model evaluation phase, I employed a comprehensive approach to fine-tune the decision tree algorithm. Specifically, we conducted hyperparameter tuning by meticulously optimizing the tree's depth, setting it to 11. This meticulous tuning process aimed to enhance the model's performance and predictive accuracy. As a result of the efforts, we successfully trained the model and achieved a commendable accuracy of 62% on the test dataset. These results underscore our commitment to precision and excellence in model development and evaluation within this project.
+      In the model evaluation phase, I employed a comprehensive approach to fine-tune the decision tree algorithm. Specifically, I conducted hyperparameter tuning by meticulously optimizing the tree's depth, setting it to 11. This meticulous tuning process aimed to enhance the model's performance and predictive accuracy. As a result of the efforts, I successfully trained the model and achieved a commendable accuracy of 62% on the test dataset. These results underscore my commitment to precision and excellence in model development and evaluation within this project.
 
 
